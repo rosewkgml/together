@@ -7,7 +7,7 @@
 /* Set a background of your screen*/
 html, body {
     height: auto !important;
-    background: url("../img/pathway-final.jpg"); /* radial-gradient(rgb(253, 168, 47) 40%, rgb(242, 217, 213) ); */
+    background: url("../img/pathway-final.jpg"); /*al-gradient(rgb(253, 168, 47) 40%, rgb(242, 217, 213) ); */
     background-size: cover;
     background-repeat: no-repeat;
 }
