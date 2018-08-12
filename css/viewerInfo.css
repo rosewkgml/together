@@ -1,0 +1,14 @@
+#board-info #viewers-area .fa-user:before {
+    color: rgba(10, 59, 84, 0);
+    content: var(--sub-badge-url);
+}
+
+#board-info #viewers-area #viewers:before {
+    content: "사람";
+    cursor: text;
+}
+
+#board-info #viewers-area #viewers:after {
+    content: "명";
+    cursor: text;
+}
