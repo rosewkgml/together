@@ -1,7 +1,7 @@
 :root {
     --main-color: ;
     --sub-color: rgb(98, 164, 204);
-    --light-sub-color: rgb(105, 203, 203);/*rgb(165, 223, 243);*/
+    --light-sub-color: rgb(98, 164, 204);/*rgb(165, 223, 243);*/
     --sub-badge-url: url("../img/subBadge.png");
     --logo-url: url("../img/wkgml1.png");
 }
